@@ -1,6 +1,0 @@
-customhost = "database-end-to-end-proj-1.c8qppgy8xzkm.us-east-1.rds.amazonaws.com"
-customuser = "admin"
-custompass = "mulatime_13!"
-customdb = "employee"
-custombucket = "end-to-end-proj-bucket-1"
-customregion = "us-east-1"
